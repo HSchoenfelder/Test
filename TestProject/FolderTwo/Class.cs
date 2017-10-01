@@ -8,5 +8,6 @@ namespace TestProject.FolderTwo
 {
     class Class
     {
+        public string BranchOne { get; set; }
     }
 }
