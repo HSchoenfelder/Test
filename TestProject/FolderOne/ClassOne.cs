@@ -11,5 +11,9 @@ namespace TestProject.FolderOne
         public string PropertyOne { get; set; }
 
         public string PropertyTwo { get; set; }
+
+        public ClassOne()
+        {
+        }
     }
 }
