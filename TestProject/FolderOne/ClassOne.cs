@@ -8,5 +8,6 @@ namespace TestProject.FolderOne
 {
     class ClassOne
     {
+        public string PropertyOne { get; set; }
     }
 }
