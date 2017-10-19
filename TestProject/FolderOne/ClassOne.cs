@@ -8,7 +8,7 @@ namespace TestProject.FolderOne
 {
     class ClassOne
     {
-        public string ChangedBySomeoneElse { get; set; }
+        public string ChangedByMyself { get; set; }
 
         public string ExtraProperty { get; set; }
 
